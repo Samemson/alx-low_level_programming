@@ -1,11 +1,11 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- *main - Entry point
- *
- *Return 0
+ *main _Entry point
+ *My hello, printf task
+ *Return: return 1 after program execution
  */
-int main
+int main(void)
 {
-printf ("with proper grammar, but the outcome is a piece of art,\n");
+printf("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
 }
